@@ -1,1 +1,1 @@
-child entry 2
+child entry modified 
